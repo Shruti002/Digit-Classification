@@ -5,6 +5,7 @@ The data used for this project is the MNIST (Modified National Institute of Stan
 # EFFICIENCY 
 Accuracy on Test data
 ![image](https://github.com/user-attachments/assets/ad16c314-9198-4473-9206-2cd02b12eb08)
+
 Accuracy on Training data
 ![image](https://github.com/user-attachments/assets/4015b963-624c-48ef-a0d4-02b055922c12)
 
