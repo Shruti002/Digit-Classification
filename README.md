@@ -1,1 +1,1 @@
-# fire_detection
+# MNIST DIGIT CLASSIFICATION
