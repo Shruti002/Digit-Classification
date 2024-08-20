@@ -10,6 +10,7 @@ Accuracy on Training data
 ![image](https://github.com/user-attachments/assets/4015b963-624c-48ef-a0d4-02b055922c12)
 
 # OUTPUT
+
 As the system takes the input in the form of image-path and then gives the output as which DIGIT is the image representing.
 Here, we took the input path of image THREE and then it gives the ouput of the image as : 3
 ![image](https://github.com/user-attachments/assets/cfe28b74-007b-4000-8350-20fcfa9d5de2)
